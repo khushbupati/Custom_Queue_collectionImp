@@ -255,6 +255,7 @@ public  class ArrayDeque<E> implements Deque<E> {
 		@Override
 		public void clear() {
 			// TODO Auto-generated method stub
+			return ct=0;
 			
 		}
 		
